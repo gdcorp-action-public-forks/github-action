@@ -36,7 +36,7 @@
     "@actions/io": "1.1.1",
     "@octokit/core": "3.5.1",
     "argument-vector": "1.0.2",
-    "debug": "4.3.1",
+    "debug": "4.3.2",
     "execa": "3.4.0",
     "find-yarn-workspace-root": "2.0.0",
     "got": "11.8.2",
@@ -44,7 +44,7 @@
     "quote": "0.4.0"
   },
   "devDependencies": {
-    "@types/node": "12.20.15",
+    "@types/node": "12.20.17",
     "@zeit/ncc": "0.22.3",
     "husky": "4.3.8",
     "markdown-link-check": "3.8.7",
